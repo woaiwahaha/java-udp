@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-public class DBHelper {
+public class DBHelper { 
     //----------------------------------sqlserver----------------------------------
     private static final String URL_STRING ="";
     private static final String DRIVER_STRING = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
