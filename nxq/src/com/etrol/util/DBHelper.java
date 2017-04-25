@@ -9,10 +9,10 @@ import java.sql.Statement;
 
 public class DBHelper {
     //----------------------------------sqlserver----------------------------------
-    private static final String URL_STRING ="jdbc:sqlserver://122.224.207.26:1433;DatabaseName=SmartGrainDepot_NXQ";
+    private static final String URL_STRING ="";
     private static final String DRIVER_STRING = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     private static final String USER_STRING = "sa";
-    private static final String PASSWORD_STRING = "1hyvg32_ice";
+    private static final String PASSWORD_STRING = "";
 
     //-----------------------------------mysql------------------------------------------
 //  private static final String URL_STRING ="jdbc:mysql://localhost:3306/test";
